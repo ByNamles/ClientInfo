@@ -17,7 +17,7 @@ ClientInfo::getInstance()->getClientInfo($playerName);
 
 ## Screenshots
 ![Use /clientinfo](https://github.com/ByNamles/ClientInfo/blob/main/assests/image0.png?raw=true)
-![Use /clientrequest](https://github.com/ByNamles/ClientInfo/blob/main/assests/image1.png=raw=true)
+![Use /clientrequest](https://github.com/ByNamles/ClientInfo/blob/main/assests/image1.png?=raw=true)
 
 ## Example Json File
 
