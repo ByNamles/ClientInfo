@@ -36,5 +36,5 @@ If you want to change provider type, open ClientDatas.php file and follow the st
      *
      * @var string
      */
-    public const PROVIDER_SETTINGS = 2; // 1 ||2
+    public const PROVIDER_SETTINGS = 2; // 1 || 2
 ```
